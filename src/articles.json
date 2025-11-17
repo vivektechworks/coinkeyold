@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Introduction",
+    "slug": "intro",
+    "file": "/articles/intro.md"
+  },
+  {
+    "title": "How wallets work",
+    "slug": "how-wallets-work",
+    "file": "/articles/how-wallets-work.md"
+
+  },
+  {
+    "title": "Scams to Avoid",
+    "slug": "scams-to-avoid",
+    "file": "/articles/scams-to-avoid.md"
+  }
+]
